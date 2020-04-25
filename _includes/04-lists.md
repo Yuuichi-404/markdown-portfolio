@@ -12,6 +12,6 @@ Replace this with a list of your favorite things.
 
 1. ichi
 2. ni
-  1. ni no ichi
-  2. ni no ni
+   1. ni no ichi
+   2. ni no ni
 3. san
